@@ -12,3 +12,6 @@ Notice anything shared in these ranks? If we created a class for each type of ma
 Pupil is the base class
 Mage inherits from Pupil
 Archmage inherits from Mage
+
+----------------------------
+![Screenshot](Supernatural Inheritance.PNG)
