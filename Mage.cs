@@ -12,7 +12,7 @@ namespace MigicalInheritance
     }
 
     //give Mage new spell: CastRainStorm()
-    publuc Storm CastRainStorm()
+    public virtual Storm CastRainStorm()
     {
       //construct new Storm and return it, This is a weak storm cast by mage
       return new Storm("rain", false, Title);
