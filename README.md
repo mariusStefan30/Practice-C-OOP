@@ -14,4 +14,4 @@ Mage inherits from Pupil
 Archmage inherits from Mage
 
 ----------------------------
-![Screenshot](Supernatural Inheritance.PNG)
+![Screenshot](SupernaturalInheritance.png)
