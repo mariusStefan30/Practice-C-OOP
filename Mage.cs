@@ -1,7 +1,7 @@
 //Mage.cs
 using System;
 
-namespace MigicalInheritance
+namespace MagicalInheritance
 {
   //define a Mage class that inherits from Pupil
   class Mage : Pupil
